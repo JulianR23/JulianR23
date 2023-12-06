@@ -31,6 +31,6 @@ Hello, I'm Julián
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     <a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img alt="C#" src="https://img.shields.io/badge/CSharp-%236AB8E3.svg?style=plastic&logo=Csharp&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/SqlServer-%234479A1.svg?style=plastic&logo=sqlserver&logoColor=white"></a>
+    <a href="https://www.microsoft.com/es-co/sql-server/sql-server-2022"><img alt="SQLSERVER" src="https://img.shields.io/badge/SqlServer-%234479A1.svg?style=plastic&logo=sqlserver&logoColor=white"></a>
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
