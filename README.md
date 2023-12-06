@@ -24,7 +24,6 @@ Hello, I'm Julián
 	<a href="https://www.linkedin.com/in/julian-clavijo-restrepo/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/restrepo.j23/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-https://www.linkedin.com/in/julian-clavijo-restrepo/
 ## 💻 My Tech Stack
 
 <p>
